@@ -1,0 +1,3 @@
+C:\Users\Axx90\Desktop\Nueva carpeta\SystemaA\SystemaA\x64\Debug\SystemaA.vcxproj.AssemblyReference.cache
+C:\Users\Axx90\Desktop\Nueva carpeta\SystemaA\SystemaA\x64\Debug\SystemaA.Form1.resources
+C:\Users\Axx90\Desktop\Nueva carpeta\SystemaA\SystemaA\x64\Debug\SystemaA.vcxproj.GenerateResource.cache
